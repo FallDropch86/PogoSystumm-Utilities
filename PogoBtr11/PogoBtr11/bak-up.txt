@@ -1,0 +1,23 @@
+while (true)
+{
+    belowline.BackColor = Color.Red;
+    Thread.Sleep(1000);
+    belowline.BackColor = Color.Orange;
+    Thread.Sleep(1000);
+    belowline.BackColor = Color.Yellow;
+    Thread.Sleep(1000);
+    belowline.BackColor = Color.Green;
+    Thread.Sleep(1000);
+    belowline.BackColor = Color.Cyan;
+    Thread.Sleep(1000);
+    belowline.BackColor = Color.Blue;
+    Thread.Sleep(1000);
+    belowline.BackColor = Color.Indigo;
+    Thread.Sleep(1000);
+    belowline.BackColor = Color.Violet;
+    Thread.Sleep(1000);
+    belowline.BackColor = Color.Purple;
+    Thread.Sleep(1000);
+    belowline.BackColor = Color.Pink;
+    Thread.Sleep(1000);
+}
