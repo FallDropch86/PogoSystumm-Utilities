@@ -1,0 +1,18 @@
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Useful projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.csproj.AssemblyReference.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Useful projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.csproj.CoreCompileInputs.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Useful projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\bin\Debug\PogoRFU.exe.config
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Useful projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\bin\Debug\PogoRFU.exe
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Useful projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\bin\Debug\PogoRFU.pdb
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Useful projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.exe
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Useful projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.pdb
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Useful projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.Properties.Resources.resources
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Useful projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.csproj.GenerateResource.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\bin\Debug\PogoRFU.exe.config
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\bin\Debug\PogoRFU.exe
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\bin\Debug\PogoRFU.pdb
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.csproj.AssemblyReference.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.Properties.Resources.resources
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.csproj.GenerateResource.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.csproj.CoreCompileInputs.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.exe
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Hacker tools\PogoRFU\PogoRFU\PogoRFU\obj\Debug\PogoRFU.pdb
